@@ -61,3 +61,28 @@ nav {
     background-color: #1b1b1b;
   }
   
+
+
+  .grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.grid-item {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+}
+
+.grid-item img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.grid-item h2 {
+  font-size: 1.2em;
+  margin: 0;
+}
