@@ -67,6 +67,7 @@ nav {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
+  border-radius: 10px;
 }
 
 .grid-item {
@@ -76,7 +77,6 @@ nav {
   color: #333;
   background-color: #808080;
   padding: 10px;
-  border-radius: 10px;
 }
 
 .grid-item img {
