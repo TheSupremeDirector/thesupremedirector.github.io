@@ -31,6 +31,20 @@
     <div style="height:100px" aria-hidden="true"></div>
     
     <h1>NEW TSD WIKI Desktop and Mobile Wallpapers!</h1>
+    <div>
+      <button onclick="downloadImage('TSD_desktop_en_jp.png')">Desktop</button>
+      <button onclick="downloadImage('TSD_phone_en.png')">Mobile</button>
+    </div>
+
+    <script>
+      function downloadImage(imageName) {
+        const link = document.createElement('a');
+        link.href = '/media/home/' + imageName;
+        link.download = imageName;
+        link.click();
+      }
+    </script>
+
 
   </body>
 </html>
