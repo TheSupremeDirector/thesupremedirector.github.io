@@ -1,12 +1,14 @@
+[This file contains a cognitohazard that prevents Foundation personnel from reading it. We are committed to keeping TSD fans safe.]
+
 **Item #:** SCP-XXXX (The Supernatural Portal of Slime)
 
-**Object Class:** Safe
+**Object Class:** Euclid
 
-**Special Containment Procedures:** The SCP-XXXX site is built around the swirling black portal, located in the forest of [REDACTED]. The portal is to be monitored and researched constantly, in an attempt to understand its origins and nature. Personnel are not to enter SCP-XXXX.
+**Special Containment Procedures:** Site [REDACTED] is built around SCP-XXXX, located in the forest of [REDACTED]. Armed security personnel are to guard the containment perimeter at all times. Site [REDACTED] has been fortified with supernatural defenses and deterrence mechanisms, designed to repel and discourage any mythological creatures from reuniting with SCP-XXXX. SCP-XXXX is to be constantly monitored using surveillance cameras and remote sensing equipment positioned at a safe distance. Research personnel must undergo rigorous screening before accessing SCP-XXXX. No direct traversal is allowed.
 
-**Description:** The portal is a swirling vortex of black goop, containing small fragments of neon colored particles. The black goop absorbs 100% of light, radiation, and other forms of energy. Attempts to retrieve the stored energy have failed. The black goop may be analysed in an attempt to determine if there is any possible way to access the energy it absorbs. This may be achieved through physical or chemical methods.
+**Description:** SCP-XXXX is a swirling vortex of black goop, containing small fragments of neon-colored particles. It is approximately 8 feet in diameter and floats 1 and a half feet off the ground, The black goop absorbs 100% of light, radiation, and other forms of energy. Attempts to retrieve the stored energy have failed. The black goop may be analyzed to determine if there is any possible way to access the energy it absorbs. This may be achieved through physical or chemical methods.
 
-It is believed that the swirling black portal was created by the combining of various magics from powerful mythological entities. The mythological entities appeared to partake in a cult-like summoning ritual. The ritual involved various different mythological and legendary creatures, and took place in a clearing in the forest of [REDACTED] on a full moon.
+It is believed that the swirling black portal was created by the combining of various magics from powerful mythological entities. The mythological entities appeared to partake in a cult-like summoning ritual. The ritual involved various different mythical and legendary creatures and took place in a clearing in the forest of [REDACTED] on a full moon.
 
 The possibility exists that SCP-XXXX is an anomaly capable of summoning more powerful paranormal entities, or entities from other dimensions.
 
